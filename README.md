@@ -1,3 +1,6 @@
+## Updates by Wei Hsien (David) Yeh
+In these R scripts, data file is assumed to be in the user's working directory.  
+
 ## Introduction
 
 This assignment uses data from
